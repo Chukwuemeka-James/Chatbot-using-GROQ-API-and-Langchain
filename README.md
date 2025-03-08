@@ -1,6 +1,6 @@
 # Project Overview - Chatbot using Groq API and LangChain
 
-This project demonstrates the creation of a chatbot utilizing Groq technology and LangChain for conversational systems. The primary goals are to effectively manage dialogues and develop a responsive AI assistant. This chatbot is built on the Groq API using the Gemma2-9b model.
+This project demonstrates the creation of a chatbot utilizing Groq technology and LangChain for conversational systems. The primary goals are to effectively manage dialogues and develop a responsive AI assistant. This chatbot is built on the Groq API using the Gemma2-9b-It model.
 
 ## Features
 - **Session-Based Memory**: The model can handle multiple chat sessions and remember user-specific information across different chats.
